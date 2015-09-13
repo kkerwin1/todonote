@@ -1,1 +1,4 @@
-dj_todonote/dj_todonote/settings.py
+*.pyc
+
+django/db.sqlite3
+django/dj_todonote/settings.py
