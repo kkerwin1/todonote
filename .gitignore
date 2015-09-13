@@ -1,4 +1,6 @@
 *.pyc
 
+evernote/devToken.py
+
 django/db.sqlite3
 django/dj_todonote/settings.py
